@@ -1,0 +1,10 @@
+.container{
+    width: 50%;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.container p{
+    font-size: 2rem;
+}
